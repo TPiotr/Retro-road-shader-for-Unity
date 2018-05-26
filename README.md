@@ -4,4 +4,6 @@ You can customize colors, size, curve etc of road to achieve what you want. You 
 # Showcase
 
 [![Road showcase video](http://img.youtube.com/vi/TtiMAFgrGPA/0.jpg)](https://www.youtube.com/watch?v=TtiMAFgrGPA)
-(In recorded scene I was using some postprocessing effects like fxaa, vignette to achieve nicer looking road)
+
+- In recorded scene I was using some postprocessing effects like fxaa, vignette to achieve nicer looking road
+ 
